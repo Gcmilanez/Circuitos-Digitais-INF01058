@@ -1,2 +1,2 @@
-# Circuitos-Digitais-INF01058
+# inf01058-projetos
 Labs
