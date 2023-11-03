@@ -1,0 +1,11 @@
+### ENTREGA DO LAB2 ###
+
+MUX2:1
+○ Consumo de área da FPGA = 33 (Pinos = 8, Logic Elements = 25)
+○ Atraso crítico = 4.698
+
+
+DECODIFICADOR 4:16
+
+○ Consumo de área da FPGA = 36 (Pinos = 20, Logic Elements = 16)
+○ Atraso crítico = 8.592
