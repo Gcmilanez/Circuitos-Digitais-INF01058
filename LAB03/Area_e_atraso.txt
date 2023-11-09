@@ -1,0 +1,4 @@
+ULA
+
+○ Consumo de área da FPGA = 27 (Pinos = 16, Logic Elements = 11)
+○ Atraso crítico = 9.087
